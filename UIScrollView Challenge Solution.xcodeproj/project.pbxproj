@@ -13,6 +13,7 @@
 		3512920E197D4F7500569089 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3512920C197D4F7500569089 /* Main.storyboard */; };
 		35129210197D4F7500569089 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3512920F197D4F7500569089 /* Images.xcassets */; };
 		3512921C197D4F7500569089 /* UIScrollView_Challenge_SolutionTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3512921B197D4F7500569089 /* UIScrollView_Challenge_SolutionTests.m */; };
+		35129226197D508100569089 /* worldMap.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 35129225197D508100569089 /* worldMap.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		35129215197D4F7500569089 /* UIScrollView Challenge SolutionTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UIScrollView Challenge SolutionTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3512921A197D4F7500569089 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3512921B197D4F7500569089 /* UIScrollView_Challenge_SolutionTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIScrollView_Challenge_SolutionTests.m; sourceTree = "<group>"; };
+		35129225197D508100569089 /* worldMap.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = worldMap.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		35129202197D4F7500569089 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				35129225197D508100569089 /* worldMap.jpeg */,
 				35129203197D4F7500569089 /* Info.plist */,
 				35129204197D4F7500569089 /* main.m */,
 			);
@@ -196,6 +199,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				35129226197D508100569089 /* worldMap.jpeg in Resources */,
 				3512920E197D4F7500569089 /* Main.storyboard in Resources */,
 				35129210197D4F7500569089 /* Images.xcassets in Resources */,
 			);
